@@ -66,4 +66,4 @@ uvicorn main:app --reload
 
 ## Author
 
-IT23655966 — Pankaji R K, Malabe Campus, Group 3.1
+IT23715110, Malabe Campus, Group 2.1
